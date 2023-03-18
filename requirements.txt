@@ -81,7 +81,6 @@ msrest==0.6.21
 msrestazure==0.6.4
 multidict==6.0.2
 ndg-httpsclient==0.5.1
-noel @ git+https://github.com/1910Genetics/noel.git@12db80daf2e177391cc9ae805623c7d5091f30c7
 numba==0.56.0
 numpy==1.21.6
 oauthlib==3.2.0
